@@ -17,7 +17,7 @@ Petunjuk :
 
 3. masuk kedalam direktori file yang diambil dari github : 
 
-                            cd 195410006_ResponsiCloud
+                            cd responsi
 
 
 4. setelah masuk kedalam direktori 195410006_ResponsiCloud/ jalankan perintah berikut :
