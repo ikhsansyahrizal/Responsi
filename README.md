@@ -12,7 +12,7 @@ Petunjuk :
                            
 2. pull image dari dockerhub ke terminal anda : 
 
-                            docker pull ikhsansyahrizal/195410006responsi
+                            docker pull ikhsansyahrizal/responsi:latest
 
 
 3. masuk kedalam direktori file yang diambil dari github : 
